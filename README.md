@@ -26,4 +26,4 @@ Chat uses:
 
 * User settings for Chat are saved in settings.txt using the JSON module
 * Various files for icons and notification sounds are provided in main
-* Pyinstaller has been used to package a distribution "Chat" folder containing an EXE that will run the current version of Chat
+* Pyinstaller has been used to package a distribution folder "Chat EXE" containing an EXE that will run the current version of Chat. Download the entire folder and run the .exe inside to try it out
